@@ -1,5 +1,5 @@
-# Hi, I am Lakshay Verma
-# 💫 About Me:
+#  Hi! I am Lakshay 
+
 👋 I'm a passionate B.Tech CSE student at SRM Institute of Science and Technology. I love building projects, solving problems, and continuously learning new technologies to enhance my skills.<br><br>💡 What I Do?<br>💻 Software Development – Writing clean and efficient code.<br>🌐 Web Development – Creating interactive and dynamic websites.<br>📊 Data Analytics – Exploring and analyzing data for insights.<br>🧠 AI & Automation – Developing intelligent and automated solutions.<br>🛠 Tech Stack<br>Languages: Java, Python, JavaScript, SQL<br>Frontend: HTML, CSS, React.js<br>Backend: Node.js, Spring Boot<br>Databases: MySQL<br>Tools & Platforms: Git, GitHub, Android Studio, IntelliJ IDEA<br>
 
 
